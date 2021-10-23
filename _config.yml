@@ -1,1 +1,3 @@
-theme: jekyll-theme-time-machine
+baseurl: ""
+url: "https://catleoleo.github.io"
+theme: jekyll-theme-leap-day
